@@ -25,6 +25,7 @@
 	* Pincer/back attacks display the old monsters or crash the game. 
 	* The animation logic assumes 60fps. Things get weird otherwise.
 	* Sometimes players can attack a monster mid-attack. They will run to to a point on the monster's path.
+	* Movement logic assumes 60fps. If things dip below that, animations crawl.
 	
 	Feel free to use or modify this as you see fit. Redistribution with source is appreciated.
 
